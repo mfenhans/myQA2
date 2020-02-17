@@ -121,7 +121,6 @@ public class LightColorDetectorTest {
     }
 
     void shouldReturnRedWhenWavelength750() {
-
         LightColorDetector victim = new LightColorDetector();
 
         int wavelength = 750;
